@@ -10,11 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-#感谢老铁送来的游艇！
-## Header 2
-### Header 3
 
+#感谢老铁送来的游艇！
 - Bulleted
 - List
 
