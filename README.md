@@ -1,8 +1,6 @@
 ## Welcome to 徐州
 
-You can use the [editor on GitHub](https://github.com/jiang99/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+谁眼角朱红的泪痣成全了你的繁华一世、你金戈铁马的江山赠与谁一场石破惊天的空欢喜。
 
 
 
