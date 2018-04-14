@@ -1,7 +1,6 @@
 ## Welcome to 徐州
 
-谁眼角朱红的泪痣成全了你的繁华一世、
-你金戈铁马的江山赠与谁一场石破惊天的空欢喜。
+
 
 
 
@@ -21,7 +20,8 @@
 
     
 最怕一生碌碌无为，还说平凡难能可贵
-
+I am a slow walker,
+but I never walk backwards!
 
 
 
